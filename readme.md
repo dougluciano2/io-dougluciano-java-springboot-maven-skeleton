@@ -2,6 +2,8 @@
 
 Um esqueleto de projeto robusto e opinativo para iniciar microserviços em Java, utilizando Spring Boot, Maven e integração com Docker para um ambiente de desenvolvimento rápido e consistente.
 
+Criado por **Douglas Luciano** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Luciano-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/douglasluciano2/)
+
 ![Java](https://img.shields.io/badge/Java-21-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-critical.svg)
@@ -92,4 +94,7 @@ Altere essa linha para o nome da sua aplicação
 Altere o nome do container, usuário, senha e root
 
 Caso opte por usar um banco diferente do que está descrito, será necessário verificar a documentação correspondente
+
+
+Obrigado!!!!
 
